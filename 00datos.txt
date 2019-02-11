@@ -1,0 +1,4 @@
+Martin Collado Perez
+Pablo Lostao Fernandez
+Mejoras: Navegacion desde una pantalla de inicio a la pagina de juego del Quiz.
+La aplicacion ha sido probada para Android
